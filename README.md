@@ -1,5 +1,5 @@
 ## Simple Attendance Contract
-![Project Logo](Screenshot 2024-08-27 at 04.17.15.png)
+![Project Logo](logo.png)
 
 **Overview**
 
