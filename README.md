@@ -48,7 +48,7 @@ This Solidity contract provides a simple mechanism for tracking student attendan
 ### Blockchain
 **EDUChain**
 
-## Contract Address
+### Contract Address
 **0x6708394A11e44F9b51f3C2803dED1edFfF041554**
 
 ## Key Features
