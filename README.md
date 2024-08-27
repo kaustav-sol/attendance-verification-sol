@@ -1,4 +1,4 @@
-## Simple Attendance Contract
+## Attendance Verification Contract
 ![Project Logo](logo.png)
 
 **Overview**
