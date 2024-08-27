@@ -7,6 +7,7 @@ This Solidity contract provides a simple mechanism for tracking student attendan
 
 ## Flowchart
 
+```plaintext
 +----------------------------------------+
 | Start                                  |
 +----------------------------------------+
@@ -41,7 +42,7 @@ This Solidity contract provides a simple mechanism for tracking student attendan
 +----------------------------------------+
 | End                                    |
 +----------------------------------------+
-
+```
 
 ## Contract
 
