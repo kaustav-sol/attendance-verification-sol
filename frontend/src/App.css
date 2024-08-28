@@ -1,0 +1,123 @@
+/* App.css */
+body {
+  margin: 0;
+  font-family: 'Arial', sans-serif;
+  background: linear-gradient(135deg, #3D0C6F, #2C3E50);
+  color: #e0e0e0;
+  height: 100vh;
+}
+
+.App {
+  text-align: center;
+  padding: 20px;
+}
+
+.App-header {
+  background: #1e1e1e;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+  padding: 30px;
+  max-width: 600px;
+  margin: 0 auto;
+  position: relative;
+}
+
+h1 {
+  color: #cf59e4;
+  margin-bottom: 20px;
+  font-size: 2rem;
+  font-weight: 700;
+  text-shadow: 2px 2px 6px rgba(0, 0, 0, 0.6);
+}
+
+.content {
+  margin-top: 20px;
+}
+
+.input-group {
+  margin-bottom: 20px;
+}
+
+input[type="text"] {
+  width: 100%;
+  padding: 12px;
+  border: 2px solid #3f3f3f;
+  border-radius: 5px;
+  font-size: 16px;
+  background: #2c2c2c;
+  color: #e0e0e0;
+}
+
+.button-group {
+  margin: 20px 0;
+}
+
+.button {
+  background: linear-gradient(135deg, #3D0C6F, #2C3E50);
+  color: white;
+  border: none;
+  padding: 12px 24px;
+  margin: 5px;
+  border-radius: 8px;
+  cursor: pointer;
+  font-size: 16px;
+  font-weight: bold;
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
+  transition: all 0.3s ease;
+}
+
+.button:hover {
+  background: linear-gradient(145deg, #3f0e53, #9c27b0);
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.3);
+  transform: translateY(-2px);
+}
+
+.button:active {
+  background: linear-gradient(145deg, #6a1b9a, #8e24aa);
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+  transform: translateY(1px);
+}
+
+.connect-wallet-button {
+  background: linear-gradient(145deg, #4a148c, #6d28d9);
+  color: white;
+  border: none;
+  padding: 12px 24px;
+  border-radius: 8px;
+  cursor: pointer;
+  font-size: 16px;
+  font-weight: bold;
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
+  transition: all 0.3s ease;
+  text-transform: uppercase;
+  margin-bottom: 20px;
+}
+
+.connect-wallet-button:hover {
+  background: linear-gradient(145deg, #6d28d9, #4a148c);
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.3);
+  transform: translateY(-2px);
+}
+
+.connect-wallet-button:active {
+  background: linear-gradient(145deg, #3b0d8f, #5a1f9f);
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+  transform: translateY(1px);
+}
+
+.info {
+  margin-top: 20px;
+  font-size: 18px;
+}
+
+.info p {
+  margin: 10px 0;
+}
+
+.error {
+  color: #f44336;
+}
+
+.success {
+  color: #4caf50;
+}
