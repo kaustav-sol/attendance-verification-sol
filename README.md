@@ -1,4 +1,4 @@
-# Attendance Verification Contract
+# Attendance Verification System
 ![Project Logo](logo.png)
 
 ## Vision
